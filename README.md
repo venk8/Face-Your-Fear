@@ -1,5 +1,5 @@
 # Face-Your-Fear
-User Preference Modelling
+User Preference Modelling <br>
 <br>Created a website to work with dynamic test data. 
-<br>Used correlating parameters from a survey conducted in the UK as training data, and built logistic regression models that would predict probabilities of the user’s phobias.
+<br>Used correlating parameters from a survey conducted in the UK as training data, and built logistic regression models that would predict probabilities of the user’s phobias. <br>
 <br> Web Development Credits: https://github.com/genu-vs
